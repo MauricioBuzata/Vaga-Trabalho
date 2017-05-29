@@ -1,0 +1,139 @@
+#principal {	
+	background-image: url(fundo.jpg);
+	background-repeat: repeat;
+	background-size: 90%, 100%;
+	width: 1366 px;
+	border: 4px solid black;
+	border: 4px solid black;
+	/*para centralizar no IE;*/
+	position: absolute;	
+}
+#cabecalho {	
+	background: linear-gradient(to bottom right, #01DFA5, #00BFFF);
+	background-repeat: no-repeat;
+	background-size: 100%, 100%;
+	font-family: centaur;
+	font-size: 100;
+	text-align: center;
+	color: black;
+}
+
+#login {
+	background: linear-gradient(to bottom right, #F5F6CE, #01DFA5);
+}
+
+#opcoes {
+	width: 100%;
+	height: 30px;
+	font-family: centaur;
+	font-size: 30px;
+	text-align: left;
+	padding-left: 0px;
+	padding-top: 0px;
+}
+
+#corpo {		
+	width: 100%;
+	height:100%;
+	border: 2px solid black;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+#rodape {		
+	padding: 10px;
+	width: 100%;
+	height: 55px;
+	border-bottom: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+}
+
+#centro {
+	font-size: 10px;
+	padding-left: 50px;
+	float: left;
+	width: 100%;
+	height: 100%;
+	border-bottom: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+#formulario{
+	margin-top: 200px;
+	margin-left: 500px;
+}
+
+#coluna{
+	text-align: left;
+	color: black;
+}
+
+#conteudo{
+	padding-left: 10px;
+	text-align: left;
+	color: black;
+}
+
+#especifico{
+	text-align: left;
+}
+
+#cor{
+	color: black;
+	text-align: center;
+}
+
+#p{
+	padding-left:300px;
+}
+
+#imagem{
+	padding-right: 10px;
+	width: 112.5px;
+	height: 150px;
+}
+
+#td {
+    width: 300px;
+	height: 200px;
+	text-align: center;
+    vertical-align: center;
+}
+
+#x{
+	padding-left: 400px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+#y{
+	padding-left: 515px;
+	padding-bottom: 10px;
+	text-align: left;
+}
+
+#z{
+	padding-left: 400px;
+	padding-bottom: 10px;
+	text-align: left;
+}
